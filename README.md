@@ -1,4 +1,4 @@
-# Steganography Python Script
+# Hide text in image
 
 This Python script allows you to hide a text message within an image using steganography techniques. It also provides functionality to extract and retrieve the hidden message from the image.
 
